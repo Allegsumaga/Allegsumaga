@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi this is Alex in a backend account 🇪🇸
 
 <!--
 **Allegsumaga/Allegsumaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/Om10CfmbEfpQYpY4EQ/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="600"/>
+
+</div>
