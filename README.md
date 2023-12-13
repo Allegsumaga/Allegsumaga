@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 <a>
-<a href="https://www.blizzard.com/en-gb/">
-<img src="https://img.shields.io/badge/blizzard-black?logo=blizzard&logoColor=cyan&style=for-the-badge"/>
+<a href="https://www.kakaocorp.com/page/service/service/KakaoTalk">
+<img src="https://img.shields.io/badge/KakaoTalk-yellow?logo=blizzard&logoColor=black&style=for-the-badge"/>
 <a>
 </div>
