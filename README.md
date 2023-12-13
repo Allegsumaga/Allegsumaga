@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/Om10CfmbEfpQYpY4EQ/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
 </div>
 
-<div id="badges" align="center">
+</div>
+
+<p align="center">
+<Strong>🌍 Social Media 🌍 </Strong><br>
+</p>
+
+<p align="center" display="inline-block">
 <a href="https://www.epicgames.com/site/en-US/home">
 <img src="https://img.shields.io/badge/EpicGames-black?logo=EpicGames&logoColor=white&style=for-the-badge"/>
 </a>
@@ -45,7 +51,7 @@ Here are some ideas to get you started:
 <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk">
 <img src="https://img.shields.io/badge/KakaoTalk-yellow?logo=blizzard&logoColor=black&style=for-the-badge"/>
 <a>
-</div>
+</p>
 
 <p align="center">
 <Strong>💻 Main Operating System 💻</Strong><br>
@@ -67,5 +73,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
