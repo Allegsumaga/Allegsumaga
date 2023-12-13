@@ -30,12 +30,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Nintendo-red?logo=Nintendo&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://www.apple.com/uk/">
-<img src="https://img.shields.io/badge/Apple-white?logo=Apple&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apple-black?logo=Apple&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://www.instagram.com">
-<img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://open.spotify.com">
 <img src="https://img.shields.io/badge/Spotify-green?logo=Spotify&logoColor=white&style=for-the-badge"/>
+<a>
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+<a>
+<a href="https://www.blizzard.com/en-gb/">
+<img src="https://img.shields.io/badge/blizzard-black?logo=blizzard&logoColor=cyan&style=for-the-badge"/>
 <a>
 </div>
