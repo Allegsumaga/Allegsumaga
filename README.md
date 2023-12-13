@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/Om10CfmbEfpQYpY4EQ/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
 <a href="https://www.epicgames.com/site/en-US/home">
 <img src="https://img.shields.io/badge/EpicGames-black?logo=EpicGames&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://www.playstation.com/en-gb/">
 <img src="https://img.shields.io/badge/PlayStation-darkblue?logo=PlayStation&logoColor=white&style=for-the-badge"/>
+
 </a>
 <a href="https://www.nintendo.co.uk/">
 <img src="https://img.shields.io/badge/Nintendo-red?logo=Nintendo&logoColor=white&style=for-the-badge"/>
@@ -44,4 +45,11 @@ Here are some ideas to get you started:
 <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk">
 <img src="https://img.shields.io/badge/KakaoTalk-yellow?logo=blizzard&logoColor=black&style=for-the-badge"/>
 <a>
+</div>
+
+<div id="OS" align="center">
+Operating Systems ❤️
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-131c31?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
