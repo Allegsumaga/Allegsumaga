@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.nintendo.co.uk/">
 <img src="https://img.shields.io/badge/Nintendo-red?logo=Nintendo&logoColor=white&style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Allegsu&style=flat-square&color=blue" alt=""/>
+</a>
+<a href="https://www.apple.com/uk/">
+<img src="https://img.shields.io/badge/Apple-white?logo=Apple&logoColor=black&style=for-the-badge"/>
 </a>
 </div>
