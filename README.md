@@ -1,4 +1,4 @@
-### Hi this is Alex in a backend account  🌱
+### Hi this is Alex in a backend account  🌱 <img src="https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif?cid=ecf05e47kkagtr4p2ee88atg7xmmfimluugncehj21s7xfwc&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
 
 <!--
 **Allegsumaga/Allegsumaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
