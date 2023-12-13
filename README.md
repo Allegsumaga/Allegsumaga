@@ -32,4 +32,10 @@ Here are some ideas to get you started:
 <a href="https://www.apple.com/uk/">
 <img src="https://img.shields.io/badge/Apple-white?logo=Apple&logoColor=black&style=for-the-badge"/>
 </a>
+<a href="https://www.instagram.com">
+<img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://open.spotify.com">
+<img src="https://img.shields.io/badge/Spotify-green?logo=Spotify&logoColor=white&style=for-the-badge"/>
+<a>
 </div>
