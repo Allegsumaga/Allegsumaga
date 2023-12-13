@@ -47,13 +47,15 @@ Here are some ideas to get you started:
 <a>
 </div>
 
-<div id="OS" align="center">
-💻 Main Operating Systems 💻
+<p align="center">
+<Strong>💻 Main Operating System 💻</Strong><br>
+</p>
 
+<p align="center" display="inline-block">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-131c31?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
+</p>
 
 <p align="center">
 <Strong>🚀 Language Skills 🚀</Strong><br>
