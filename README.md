@@ -1,4 +1,4 @@
-### Hi this is Alex in a backend account <img src="https://media.giphy.com/media/RLzxC3jUJDpIBgp3wl/giphy.gif?cid=ecf05e47bjscyrov99sidlegzv76eh3q6bifc0t5jkcgcl1t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="45"/>
+### Hi this is Alex in a backend account <img src="https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif?cid=ecf05e47kkagtr4p2ee88atg7xmmfimluugncehj21s7xfwc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"/> <img src="https://media.giphy.com/media/kbX7QEq9ziSfks5XLq/giphy.gif?cid=ecf05e47i9upc5rsi5ee7h3h5xjiwvolaztyz9epc34idmp5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="45"/>
 
 <!--
 **Allegsumaga/Allegsumaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/Om10CfmbEfpQYpY4EQ/giphy.gif?cid=ecf05e470jtefqf1uxc6qc8m6zyhgjwl8nntm75zvzjkd3bm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
+<img src="https://media.giphy.com/media/RLzxC3jUJDpIBgp3wl/giphy.gif?cid=ecf05e47bjscyrov99sidlegzv76eh3q6bifc0t5jkcgcl1t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
 </div>
 
 </div>
