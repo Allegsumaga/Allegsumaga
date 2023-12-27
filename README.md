@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/RLzxC3jUJDpIBgp3wl/giphy.gif?cid=ecf05e47bjscyrov99sidlegzv76eh3q6bifc0t5jkcgcl1t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
+<img src="https://media.giphy.com/media/YnHd3mELw7KMShu4Kh/giphy.gif?cid=ecf05e47bjscyrov99sidlegzv76eh3q6bifc0t5jkcgcl1t&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400"/>
 </div>
 
 </div>
